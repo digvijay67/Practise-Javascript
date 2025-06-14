@@ -13,3 +13,9 @@ let Score = "55adv";
 
   console.log(BooleanIsLoggedIn);
   
+  let somenumber = 54
+    console.log(typeof somenumber);
+    
+  let SomeNumber = String(somenumber);
+  console.log(typeof SomeNumber);
+  
